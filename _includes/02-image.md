@@ -1,1 +1,1 @@
-![Selfie](https://github.com/JLisoski/markdown-portfolio/blob/main/IMG_6704.jpg)
+![Selfie](IMG_6704.jpg)
