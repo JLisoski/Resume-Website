@@ -6,6 +6,10 @@ layout: page
 
 <br>
 
+{% include 06-education.md %}
+
+<br>
+
 {% include 02-image.md %}
 
 <br>
