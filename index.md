@@ -2,11 +2,11 @@
 layout: default
 ---
 
-{% include 00-aboutMe.md %}
+{% include 02-image.md %}
 
 <br>
 
-{% include 02-image.md %}
+{% include 02-aboutMe.md %}
 
 <br>
 
