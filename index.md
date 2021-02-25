@@ -2,11 +2,15 @@
 layout: default
 ---
 
+{% include 00-aboutMe.md %}
+
+<br>
+
 {% include 02-image.md %}
 
 <br>
 
-{% include 01-name.md %}
+{% include 01-contactInfo.md %}
 
 <br>
 
@@ -18,8 +22,16 @@ layout: default
 
 <br>
 
-{% include 04-lists.md %}
+{% include 04-techSkills.md %}
 
 <br>
 
-{% include 05-emphasis.md %}
+{% include 05-skills.md %}
+
+<br>
+
+{% include 07-work.md %}
+
+<br>
+
+{% include 08-activities.md %}
