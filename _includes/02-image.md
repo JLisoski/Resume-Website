@@ -1,1 +1,1 @@
-![Selfie](IMG_6704.jpg)
+![Image of Yaktocat](IMG_6704.jpg)
