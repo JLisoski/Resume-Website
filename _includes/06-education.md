@@ -1,4 +1,4 @@
-## Education
+# Education
   - **University of Nevada, Las Vegas**
       - Bachelor of Science in Computer Science
       - GPA = 3.168

@@ -1,8 +1,8 @@
 # Contact Information
-- *Name*: Joshua Taylor Lisoski
-- *Phone*: 971-832-1315
-- *Email*: lisoski.joshua@gmail.com
-- *Address*: Las Vegas, NV, 89148
+- __*Name*__: Joshua Taylor Lisoski
+- __*Phone*__: 971-832-1315
+- __*Email*__: lisoski.joshua@gmail.com
+- __*Address*__: Las Vegas, NV, 89148
 
 - __*Availability*__:
     - Available all day by email
