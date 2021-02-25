@@ -1,5 +1,27 @@
-# Here is a list of my hobbies: 
-- Spending time with my wife and kids 
-- Coding Projects 
-- Reading
-- Writing
+# Technical Skills 
+- __*Languages*__:
+    - *Intermeadiate*:
+        - C++
+        - Java
+    - *Familiar*:
+        - Assembly
+        - Python
+        - C
+        - C#
+- __*Operating Systems*__:
+    - Linux
+    - Windows
+    - Ubuntu
+- __*Methodologies*__:
+    - Object Oriented Programming
+- __*Programs*__:
+    - **IDE's/Text Editors**:
+        - Visual Studio
+        - Visual Studio Code
+        - Atom
+        - Sublime
+        - JetBrains Suite
+        - Juptyer Notebook
+        - Vim
+    - **Software**:
+        - Microsoft Suite 
