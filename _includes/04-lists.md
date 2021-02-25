@@ -15,7 +15,7 @@
 - __*Methodologies*__:
     - Object Oriented Programming
 - __*Programs*__:
-    - **IDE's/Text Editors**:
+    - *IDE's/Text Editors*:
         - Visual Studio
         - Visual Studio Code
         - Atom
@@ -23,5 +23,5 @@
         - JetBrains Suite
         - Juptyer Notebook
         - Vim
-    - **Software**:
+    - *Software*:
         - Microsoft Suite 
