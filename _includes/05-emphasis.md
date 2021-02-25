@@ -1,4 +1,4 @@
-# Skills
+# Personal Skills
 - Strong written and oral communication
 - Strong interpersonal skills
 - Counseling skills 
