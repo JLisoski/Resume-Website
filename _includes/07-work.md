@@ -59,7 +59,7 @@ __*Any gaps in work history represent times of unemployment*__
     - Shift Notes
     - Housekeeping
     - Medication Audits
-    - Get Clients ready for morning staff
+    - Got Clients ready for morning staff
 - **Projectionist**
     - Cinemark Eastpor 16 Theater, Portland OR
     - November 2009 to September 2013
