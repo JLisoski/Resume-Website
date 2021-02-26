@@ -1,1 +1,74 @@
 # Work Experience
+
+__*Any gaps in work history represent times of unemployment*__
+
+- **Delivery Driver**
+    - Domino's, Las Vegas NV
+    - March 2019 to January 2020
+- **Customer Service Representative**
+    - Sutherland Global, Las Vegas NV
+    - June 2018 to August 2018
+    - PlayStation Gaming Support
+        - Account Recovery
+        - Billing
+- **Customer Service Representative**
+    - Customer Contact Channels, Las Vegas NV
+    - August 2017 to June 2018
+    - Humana Mail Order Pharmacy
+        - Refill of 90 day medications
+        - Copay assistance 
+        - Order Tracking 
+- **Manager**
+    - 7-Eleven, Portland OR
+    - April 2016 to July 2017
+    - Staff Scheduling 
+    - Inventory Management
+    - Managed Store Finances 
+    - Oversaw HR
+- **Medical Transport Driver**
+    - Wapato Shores, Portland OR
+    - April 2016 to July 2016
+    - Followed dispatchers schedule 
+- **Data Entry**
+    - Quality Counts, Portland OR
+    - September 2015 to February 2016
+- **Medication Aide**
+    - The Springs Living, Portland OR
+    - February 2015 to November 2015
+    - Passing of medication according to a doctor approved schedule
+    - Wound Care
+    - Appointment Scheduling 
+    - Transportation Setup 
+    - Contacting Family Members
+- **Skills Trainer/Interim Program Manager**
+    - Chehalem Youth and Family Services, Newberg OR
+    - April 2014 to September 2014
+    - Skills Trainer
+        - Life Skills Training
+        - Housekeeping
+        - General Office Work
+    - Interim Program Manager
+        - Maintain Client Financials 
+        - Appointment Scheduling 
+        - Data Entry
+        - Office Work
+- **Overnight Skills Trainer**
+    - Trillium Family Services, Portland OR
+    - August 2013 to May 2014
+    - 15-minute Bed Checks
+    - Shift Notes
+    - Housekeeping
+    - Medication Audits
+    - Get Clients ready for morning staff
+- **Projectionist**
+    - Cinemark Eastpor 16 Theater, Portland OR
+    - November 2009 to September 2013
+    - Also worked as:
+        - Concession Stand Worker
+        - Usher
+        - Box Office 
+- **Driver**
+    - Whispering Winds, Gresham OR
+    - March 2007 to September 2009
+    - Transportation compnay that was contracted with the Oregon Tissue Bank
+    - Retrieved and Delivered Tissue Donors to the bank
