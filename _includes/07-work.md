@@ -8,13 +8,13 @@ __*Any gaps in work history represent times of unemployment*__
 - **Customer Service Representative**
     - Sutherland Global, Las Vegas NV
     - June 2018 to August 2018
-    - PlayStation Gaming Support
+    - PlayStation Gaming Support:
         - Account Recovery
         - Billing
 - **Customer Service Representative**
     - Customer Contact Channels, Las Vegas NV
     - August 2017 to June 2018
-    - Humana Mail Order Pharmacy
+    - Humana Mail Order Pharmacy:
         - Refill of 90 day medications
         - Copay assistance 
         - Order Tracking 
@@ -43,11 +43,11 @@ __*Any gaps in work history represent times of unemployment*__
 - **Skills Trainer/Interim Program Manager**
     - Chehalem Youth and Family Services, Newberg OR
     - April 2014 to September 2014
-    - Skills Trainer
+    - __*Skills Trainer*__:
         - Life Skills Training
         - Housekeeping
         - General Office Work
-    - Interim Program Manager
+    - __*Interim Program Manager*__:
         - Maintain Client Financials 
         - Appointment Scheduling 
         - Data Entry
@@ -63,7 +63,7 @@ __*Any gaps in work history represent times of unemployment*__
 - **Projectionist**
     - Cinemark Eastpor 16 Theater, Portland OR
     - November 2009 to September 2013
-    - Also worked as:
+    - *Also worked as*:
         - Concession Stand Worker
         - Usher
         - Box Office 
