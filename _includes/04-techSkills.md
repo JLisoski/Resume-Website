@@ -8,12 +8,15 @@
         - Python
         - C
         - C#
+        - SQL
 - __*Operating Systems*__:
     - Linux
     - Windows
     - Ubuntu
 - __*Methodologies*__:
     - Object Oriented Programming
+- __*Frameworks*__:
+    -.NET
 - __*Programs*__:
     - *IDE's/Text Editors*:
         - Visual Studio
@@ -24,4 +27,6 @@
         - Juptyer Notebook
         - Vim
     - *Software*:
-        - Microsoft Suite 
+        - Microsoft Suite
+        - Microsoft SQL Server
+        - Microsoft PowerBi 

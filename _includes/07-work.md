@@ -2,6 +2,9 @@
 
 __*Any gaps in work history represent times of unemployment*__
 
+- **Software Developer**
+    - InfoSys, Redmond, WA
+    - June 2021 to Present
 - **Delivery Driver**
     - Domino's, Las Vegas NV
     - March 2019 to January 2020
