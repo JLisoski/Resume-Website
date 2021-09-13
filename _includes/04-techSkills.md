@@ -16,7 +16,7 @@
 - __*Methodologies*__:
     - Object Oriented Programming
 - __*Frameworks*__:
-    -.NET
+    - .NET
 - __*Programs*__:
     - *IDE's/Text Editors*:
         - Visual Studio
